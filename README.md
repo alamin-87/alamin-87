@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="[https://i.imgur.com/YOUR_BANNER_IMAGE.png](https://github.com/alamin-87/alamin-87/blob/81fd6fa11240c29e9ea6b8fdc9762d1f92868957/5.jpg)" alt="banner" width="100%" />
+<img src="https://github.com/alamin-87/alamin-87/blob/81fd6fa11240c29e9ea6b8fdc9762d1f92868957/5.jpg" alt="banner" width="100%" />
 
 <h1 align="center">Hi, I'm MD. AL-AMIN 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
