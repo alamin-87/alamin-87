@@ -1,41 +1,92 @@
-<!-- Banner Image -->
-<img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="Banner" width="100%" />
+<!-- Banner -->
+<img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="banner" width="100%" />
 
 <h1 align="center">Hi, I'm Md. Al-Amin Hossain 👋</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Developer</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 I’m currently pursuing a BSc in Computer Science & Engineering at Daffodil International University.  
-💻 I have 1 year of hands-on experience in full stack web development using the MERN stack.  
-🚀 I love turning ideas into real-life applications and solving real-world problems through code.
+🎓 BSc in Computer Science & Engineering (ongoing)  
+💼 1 year of experience in Full Stack Development  
+💡 Passionate about solving real-world problems through scalable web applications  
+🌱 Always learning and upgrading my skills through challenges, courses, and projects
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 What I'm Currently Working On
 
-- 🔍 Exploring **Next.js** and performance optimization
-- 🌐 Building a **Food Sharing Platform** using MERN Stack
-- 🧠 Learning about **Clean Code Practices** and **System Design**
-- 🛠️ Improving UI/UX in my current portfolio projects
+- 🔍 Exploring **Next.js**, server-side rendering, and optimization
+- 🌐 Developing a **Food Sharing App** (React + Node.js + MongoDB)
+- 📘 Writing clean, reusable code following **best practices**
+- 🧠 Studying advanced **JavaScript**, API security, and system design
 
 ---
 
-### 💻 Tech Stack
+### 💼 Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 🛠️ Tools & Technologies
+
+- 🧰 VS Code, Postman, MongoDB Compass, Chrome DevTools  
+- ☁️ Firebase, Netlify, Vercel  
+- 🔐 JWT, REST APIs, MVC Architecture
+
+---
+
+### 📌 Noteworthy Projects
+
+**FoodShare Platform**  
+MERN-based community food sharing platform with real-time countdown and secure login.
+
+**Job Finder App**  
+Job board web app with custom filters and employer dashboard.
+
+**Tourism Website**  
+Interactive destination booking system with responsive UI using React & Tailwind.
+
+---
+
+### 🏆 Achievements
+
+- 🛠️ Completed 8 full-stack MERN projects  
+- 🌟 Top performer in multiple coding course projects  
+- 🕒 Built and deployed multiple real-time web apps under tight deadlines
+
+---
+
+### 📚 Certifications
+
+- [ ] JavaScript (Intermediate) – HackerRank  
+- [ ] Responsive Web Design – freeCodeCamp  
+- [ ] MongoDB Basics – MongoDB University *(coming soon)*
+
+---
+
+### 📊 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=gruvbox" alt="stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=gruvbox" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=gruvbox" alt="languages" />
+  <br/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=YOUR-GITHUB&theme=rogue" alt="activity" />
 </p>
 
 ---
@@ -48,12 +99,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### ✅ Things I Believe In
 
+- 🔄 Continuous improvement over perfection  
+- 🤝 Collaboration over competition  
+- 📖 Learning is a lifelong journey  
+- 💬 Open-source is the future of innovation
+
+---
+
+<!-- Footer -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB&layout=compact&theme=radical" alt="Top Languages" />
+  Made with ❤️ by Md. Al-Amin Hossain
 </p>
