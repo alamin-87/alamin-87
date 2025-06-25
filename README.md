@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="banner" width="100%" />
 
-<h1 align="center">Hi, I'm Md. Al-Amin Hossain 👋</h1>
+<h1 align="center">Hi, I'm MD. AL-AMIN 👋</h1>
 <h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Lifelong Learner</h3>
 
 ---
@@ -107,8 +107,3 @@ Interactive destination booking system with responsive UI using React & Tailwind
 - 💬 Open-source is the future of innovation
 
 ---
-
-<!-- Footer -->
-<p align="center">
-  Made with ❤️ by Md. Al-Amin Hossain
-</p>
