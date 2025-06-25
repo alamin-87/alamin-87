@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alamin-87&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-87&theme=tokyonight" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alamin-87&theme=tokyonight" width="48%" /> -->
 </p>
 
 <p align="center">
@@ -111,5 +111,5 @@
 ---
 
 <p align="center">
-  ✨ Crafted with passion by <b>Md. Al-Amin Hossain</b> 💻
+  ✨ Crafted with passion by <b>MD. AL-AMIN</b> 💻
 </p>
